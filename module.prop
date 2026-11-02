@@ -1,0 +1,6 @@
+id=ktools_zygisk
+name=ktools
+version=v1
+versionCode=1
+author=ktools
+description=ktools zygisk loader
